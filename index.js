@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "susn"
 var height = "74"
 if (name ==="Susan"){console.log("the name is correct")}
 else
